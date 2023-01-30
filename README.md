@@ -1,5 +1,5 @@
 # Currency-Converter
-Конвертер валют на ![js](https://user-images.githubusercontent.com/51737588/215410668-b4d238f3-72b5-4f4b-90ab-a3da156e0808.png)
+Конвертер валют на JS
 
 ![unnamed](https://user-images.githubusercontent.com/51737588/215349536-66f0fcd0-9ba6-4b6a-a12f-c9849c4744d0.png)
 
